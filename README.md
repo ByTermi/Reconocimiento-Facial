@@ -2,6 +2,8 @@
 
 Binary classifier that decides whether a face is **Arnold Schwarzenegger** or not, using the **LFW (Labeled Faces in the Wild)** dataset. A computer-vision problem solved with **model selection and cross-validation** over pixel features.
 
+Developed as a practical demo for a **technical talk on machine learning and model selection**.
+
 ![Python](https://img.shields.io/badge/Python-3.12-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange.svg)
 
